@@ -16,7 +16,7 @@
     
 
 [![instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&https://instagram.com/canpolatgkky=https://instagram.com/canpolatgkky)](https://instagram.com/sahmeran.jpg) 
-[![Discord](https://img.shields.io/badge/Discord-%231877F2.svg?&style=flat-square&logo=discord&logoColor=white)(https://discord.gg/48Rc62nHeb)
+[![Discord](https://img.shields.io/badge/Discord-%231877F2.svg?&style=flat-square&logo=discord&logoColor=white)[(https://discord.gg/48Rc62nHeb)]
    
 
 ------------------------------------------------
